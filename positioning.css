@@ -11,3 +11,25 @@ p {
     padding-left: 30%;
     padding-right: 30%;
 }
+
+.static {
+    background-color: #eee;
+    width: 150px;
+    padding: 50px;
+    position: fixed;
+    text-align: center;
+    margin-left: 360px;
+
+
+}
+
+#border_left {
+    background: blue;
+    position :fixed;
+    top: 0; bottom: 0;
+    width: 2px;
+    left: 0;
+
+    
+    
+}
