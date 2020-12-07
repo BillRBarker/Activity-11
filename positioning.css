@@ -23,6 +23,30 @@ p {
 
 }
 
+.relative {
+    background-color: #eee;
+    width: 37%;
+    padding: 50px;
+    position: relative;
+    text-align: center;
+    left: 550px;
+    overflow: visible;
+     
+    
+}
+
+.absolute {
+    background-color: #999;
+    width: 200px;
+    padding: 30px;
+    position: absolute;
+    text-align: center;
+    left: 1150px;
+    top: 277px
+    
+        
+}
+
 #border_left {
     background: blue;
     position :fixed;
